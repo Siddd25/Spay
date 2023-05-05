@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706530174237",
+    "project_id": "spay-a7b29",
+    "storage_bucket": "spay-a7b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706530174237:android:b22efa2f7e2c03f47b6df4",
+        "android_client_info": {
+          "package_name": "com.example.s_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706530174237-1dg2qf7o0hqs64seqrvmomlbljfegtef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCig6lW9UOD40JBGefFZjzRQELGm1QdMpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706530174237-1dg2qf7o0hqs64seqrvmomlbljfegtef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
