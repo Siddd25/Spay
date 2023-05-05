@@ -1,6 +1,6 @@
 # s_pay
 
-Payments app
+Dummy Payments app
 
 ## Getting Started
 
